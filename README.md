@@ -8,8 +8,7 @@ Este es el index de lo que podras ver:
 
 1- Pongamonos profesionales con OSCP:
 
-    De forma constante subire evidencia y resumenes que ire haciendo
-    en mi busqueda de la certificacion OSCP
+    De forma constante subire evidencia y resumenes que ire haciendo en mi busqueda de la certificacion OSCP
 
 Dudas o comentarios puedes contactarme por:
 Twitter_ @evexsdesmoulins
