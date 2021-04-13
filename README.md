@@ -6,7 +6,8 @@ a la comunidad de codigo abierto.
 
 Este es el index de lo que podras ver:
 
-1- Pongamonos profesionales con OSCP
+1- Pongamonos profesionales con OSCP:
+
     De forma constante subire evidencia y resumenes que ire haciendo
     en mi busqueda de la certificacion OSCP
 
