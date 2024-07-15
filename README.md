@@ -1,12 +1,12 @@
-# 👋 HOLA ESTIMADO LECTOR...
+# 👋 HOLA ESTIMADO VIAJERO...
 
-Este es mi repositorio en el cual subo mi codigo de ambito publico sientete libre de usarlo y mejorarlo, solo pido como favor que apoyes a la comunidad de codigo abierto.
+Este es mi repositorio en el cual subo mi codigo y experiencia en el pentesting todo es de ambito publico sientete libre de usarlo y mejorarlo.
 
 ## Este es el index de lo que podras ver:
 
 * Per aspera ad OSCP:
-    * De forma constante y una vez al mes subire evidencia y resumenes que ire haciendo en mi busqueda de la certificacion OSCP
-    * https://github.com/DESMOULINS/Per_Aspera_Ad_OSCP
+    * Mi experiencia en el pentesting:
+       * https://github.com/DESMOULINS/Per_Aspera_Ad_OSCP
 
 Dudas o comentarios puedes contactarme por:
 Twitter_ @evexsdesmoulins
