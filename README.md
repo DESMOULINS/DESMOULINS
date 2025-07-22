@@ -1,6 +1,6 @@
-# 👋 HOLA ESTIMADO VIAJERO...
+# 👋 REPOSITORIO DE HERRAMIENTAS DE PENTEST...
 
-Este es mi repositorio en el cual subo mi codigo y experiencia en el pentesting todo es de ambito publico sientete libre de usarlo y mejorarlo.
+Este es mi repositorio en el cual subo codigo y experiencia en el pentesting todo es de ambito publico sientete libre de usarlo y mejorarlo.
 
 ## Este es el index de lo que podras ver:
 
